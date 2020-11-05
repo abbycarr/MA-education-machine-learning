@@ -9,4 +9,4 @@ The project will be updated as we work with our dataset and apply machine learni
 ### The Dataset:
 The datasets was compiled from various sets of data available from the Massachusetts Department of Education on school districts in a given year. Each row of pre-existing data is the data for a MA school district over a single school year.
 
-Take a look at the Dataset Information file (to be uploaded by Monday, Nov. 2nd) to view a complete project description along with specific information on our dataset values and its machine learning potential. 
+Take a look at the Dataset Information file to view a complete project description along with specific information on our dataset values and its machine learning potential. 
